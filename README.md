@@ -1,4 +1,4 @@
-![Demo GIF](https://i.giphy.com/media/tinbfZnPaF2iVOwN5B/giphy-downsized-large.gif)
+![Demo GIF](readme-gif.gif)
 
 
 # GPT-4 and React-Leaflet Map Integration
