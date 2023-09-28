@@ -21,22 +21,22 @@ The application utilizes GPT-4 for generating coordinates and a title for a loca
 
 ## Installation
 1. Clone the repository
-&&&
-git clone https://github.com/your-repo-link
-&&&
+```
+git clone https://github.com/developersdigest/GPT-4-LEAFLET-NEXT-JS
+```
 2. Navigate to the project folder and install dependencies
-&&&
+```
 cd your-project-folder
 npm install
-&&&
+```
 3. Add your OpenAI API key to a `.env` file
-&&&
+```
 OPENAI_API_KEY=your-api-key-here
-&&&
+```
 4. Start the development server
-&&&
+```
 npm run dev
-&&&
+```
 
 ## Usage
 1. Open the application in a browser.
