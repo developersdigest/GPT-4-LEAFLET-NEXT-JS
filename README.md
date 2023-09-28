@@ -1,3 +1,6 @@
+![Demo GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ3YjFnaGtpdG5wZzV3MXk2djU2NWJiZmdqd2xnZjd6Z3FiaTNpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tinbfZnPaF2iVOwN5B/giphy.gif)
+
+
 # GPT-4 and React-Leaflet Map Integration
 
 This project demonstrates the integration of GPT-4 and React-Leaflet to visualize geographic data. The app fetches coordinates and a location title from GPT-4 based on a user query, and then renders them as markers on a Leaflet map.
