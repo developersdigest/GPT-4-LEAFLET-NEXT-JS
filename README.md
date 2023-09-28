@@ -1,4 +1,4 @@
-![Demo GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ3YjFnaGtpdG5wZzV3MXk2djU2NWJiZmdqd2xnZjd6Z3FiaTNpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tinbfZnPaF2iVOwN5B/giphy.gif)
+![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ3YjFnaGtpdG5wZzV3MXk2djU2NWJiZmdqd2xnZjd6Z3FiaTNpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tinbfZnPaF2iVOwN5B/giphy-downsized-large.gif)
 
 
 # GPT-4 and React-Leaflet Map Integration
